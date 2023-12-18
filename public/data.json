@@ -1,0 +1,396 @@
+{
+    "general": {
+        "background": "/bg1.jpg",
+        "avatar": "/pic.jpg",
+        "name": "Tohidul Bari Pavel",
+        "profession": "Electrical And Computer Science engineers",
+        "resume": "https://drive.google.com/file/d/1iZ0biwopM7aeElBiVCV3rIg_f1bSUvaC/view?usp=drive_link",
+        "logo": "&lt;/TohidulBari&gt;",
+        "footer_copyright": "&copy; Copyright 2023 Design &amp; Developed by <span class='text-dark'>Tohidul Bari</span>"
+    },
+    "about": {
+        "email": "md.pavel01710@gmail.com",
+        "language": "Bengali, English, Chinese, Urdu/Hindi",
+        "location": "Dhaka, Bangladesh",
+        "expertise": "Freelance Software Tester,Project Manager,documented translates, Script &amp; Bot Maker",
+        "bio": "Hi, I am Tohidul Bari Pavel: A Computer Science and Technology graduate with a Diploma in Electrical Engineering. Currently advancing expertise through a long-term Project Management course at Google. My professional journey includes a year as an Assistant Electrical Engineer at Robintex Group, followed by a year as a Software Engineer QA Intern at Qups.XYZ in Bangladesh. Presently excelling as a Remote Sales Manager in a Chinese Chemical Company, showcasing adaptability and a diverse skill set"
+    },
+    "skills": [
+        {"title": "HTML", "icon": "html"},
+        {"title": "CSS", "icon": "css"},
+        {"title": "JavaScript", "icon": "javascript"},
+        {"title": "PHP", "icon": "php"},
+        {"title": "Laravel", "icon": "laravel"},
+        {"title": "Python", "icon": "python"},
+        {"title": "FastAPI", "icon": "fastapi"},
+        {"title": "NodeJS", "icon": "nodejs"},
+        {"title": "ExpressJS", "icon": "express"},
+        {"title": "MySQL", "icon": "mysql"},
+        {"title": "ReactJS", "icon": "reactjs"},
+        {"title": "Bootstrap", "icon": "bootstrap"},
+        {"title": "ElectronJS", "icon": "electron"},
+        {"title": "BeautifulSoup", "icon": "beautifulsoup"},
+        {"title": "Jupyter Notebook", "icon": "jupyter"},
+        {"title": "Visual Studio Code", "icon": "vscode"},
+        {"title": "Figma", "icon": "figma"},
+        {"title": "Git", "icon": "git"},
+
+        {"title": "Windows", "icon": "windows"},
+        {"title": "Linux", "icon": "linux"}
+    ],
+    "showcases": [
+        {
+            "title": "Al-Maktaba",
+            "description": "Step into the sacred realm of Al-Maktaba, a digital sanctuary dedicated to preserving and nurturing the spiritual heritage of Islam. The name 'Al-Maktaba' itself, derived from Arabic, translates to 'The Library,' embodying our commitment to being a comprehensive repository of Islamic knowledge and wisdom. Within Al-Maktaba's virtual shelves, you'll uncover a wealth of divine treasures. Explore the Asma-ul-Husna, the beautiful names of Allah, each shining a unique light on His infinite attributes. Navigate the Quran with transliteration, making its profound verses accessible to all, bridging linguistic divides and allowing the Quran's timeless teachings to resonate within your heart. Discover a rich collection of supplications (dua) that encompass every facet of life, offering solace, guidance, and blessings. Immerse yourself in the timeless wisdom contained within the authentic Sahih Hadith books, drawing from the unwavering traditions of the beloved Prophet Muhammad (peace be upon him). Al-Maktaba is more than just a library; it's your spiritual compass on the journey of Islamic enlightenment. Whether you're an experienced scholar or a seeker taking your first steps, we are dedicated to illuminating your path with the radiant light of Islamic knowledge and spirituality. Embark on a profound odyssey of self-discovery and devotion as you traverse this sacred space. Our mission is not only to help you become a devout Muslim but also a better human being, a guardian of Allah's infinite benevolence.",
+            "made_with": "React, Tailwind",
+            "types": "Website",
+            "date": "Oct 10, 2020",
+            "url": "https://github.com/muhammadabir64/al-maktaba",
+            "thumbnail": "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/3e269f68-9c1c-4063-8371-8ae3d0e78a16",
+            "preview_img": "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/b8d3a211-2669-42d4-bc19-705766784da5|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/11105d30-9270-4e8a-97b1-1526ba4a8517|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/6813a23d-5273-4746-82d4-a097371c174c|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/38599da2-2072-4775-8d2a-d20023eb79cf|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/76a48728-27da-4ff4-b23a-8e589b7e20fc|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/528e0905-a4d5-4dcf-bb06-f85e3269b579|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/83a46997-28e5-4150-a5b2-508f201766a8|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/03c4654a-6d32-4cc9-8de3-466e76ac5f36"
+        },
+        {
+            "title": "Whatsapp-Bulk",
+            "description": "I developed a WhatsApp Bulk platform for an Egyptian team using PHP and MySQL. This platform includes features such as bulk messaging, secure hash code integration, advanced content filtering, user management, and database optimization. Additionally, I integrated a payment system that allows users to make payments using various TRC20 cryptocurrencies, including USDT TRC20. As the lead developer, I managed all aspects of the project, from design to testing, and collaborated closely with the client. The platform is now in active use and has enhanced the team's outreach with efficient and secure bulk messaging, receiving positive feedback for its usability and reliability.",
+            "made_with": "JavaScript, PHP, MySQL",
+            "types": "Web Application",
+            "date": "Sep 25, 2022",
+            "url": "",
+            "thumbnail": "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/40db9fd2-e115-414a-b66a-4ea01373eb6b",
+            "preview_img": "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/6db3121b-bdc6-42a5-be6e-36c5d6fbd7e5|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/0483a991-b9a8-4b0c-a609-f82d18dcf50b|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/11869862-5fcf-4ea2-8c68-8be25310818d|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/d10a2b5d-b674-4105-9948-a298512c53a0|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/6923bd83-50e0-40d4-b11d-5411829e97d6"
+        },
+        {
+            "title": "Musicai.Art",
+            "description": "This is a AI-Image generator platform like dall-e. Made with django & stable-diffusion-webui api.",
+            "made_with": "Django, Stable Diffusion, MySQL",
+            "types": "Web Application",
+            "date": "Jun 28, 2023",
+            "url": "",
+            "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/0268a9f4a6082acf295db81457496795-1689585929155/image.png",
+            "preview_img": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/0268a9f4a6082acf295db81457496795-1689586065842/image%20%281%29.png|https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/0268a9f4a6082acf295db81457496795-1689585839672/Capture2%20%281%29.png"
+        },
+        {
+            "title": "Tweeby - Social Platform",
+            "description": "Tweeby is an social platform, inpired by twitter, instagram & whatsapp (you can say, its mixed). I made this fully featured application using django. features: - posting tweets & like, comments - follow or unfollow users - register, login & password reset - also many others..... realtime communication using websocket but backed by django channels - global chat room (all registered users can chat together) - private chat room (only user to user chat room)",
+            "made_with": "JavaScript, Django, WebSocket, MySQL",
+            "types": "Web Application",
+            "date": "Jun 05, 2022",
+            "url": "https://github.com/muhammadabir64/tweeby",
+            "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/b83dca35536517f94d9e173b2594c6d1-1689585065376/5_img.png",
+            "preview_img": "https://user-images.githubusercontent.com/51321911/275400735-12784ee2-3dcd-4266-abec-4f1aaec59fab.png|https://user-images.githubusercontent.com/51321911/275401278-282c4781-3852-42c7-ba6b-508fd07553be.png|https://user-images.githubusercontent.com/51321911/275401800-32a49ff6-cedc-42e0-88ff-365923c342c0.png|https://user-images.githubusercontent.com/51321911/275401871-2d06571f-49fd-446f-8a9f-86203578bfc6.png|https://user-images.githubusercontent.com/51321911/275402099-cf20c5f3-71b9-47ab-b6cf-85122fbd8cac.png"
+        },
+        {
+            "title": "MicroGigX",
+            "description": "I have developed a microjob platform tailored specifically for Bangladesh, utilizing the Laravel. This platform serves as a hub for users to join, post tasks, and connect with skilled workers. Workers can enroll in tasks and receive payment upon completion, while users can deposit funds and withdraw earnings securely. With a user-friendly interface and robust functionality, this platform provides a seamless experience for both task posters and workers, facilitating efficient and transparent transactions.",
+            "made_with": "JavaScript, Laravel, MySQL",
+            "types": "Web Application",
+            "date": "Aug 10, 2023",
+            "url": "",
+            "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/1d94f5b5181181999f884c97d34bb521-1691699801236/screencapture-127-0-0-1-8000-2023-08-11-02_33_39.png",
+            "preview_img": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/abc4e0707dcb148fea1640674040aa7c-1689588265394/Capture2.PNG|https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/abc4e0707dcb148fea1640674040aa7c-1689588265411/Capture3.PNG|https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/abc4e0707dcb148fea1640674040aa7c-1689588265412/Capture5.PNG"
+        },
+        {
+            "title": "ProFolio - Personal Portfolio/CV",
+            "description": "ProFolio- is a CMS based protfolio management system.",
+            "made_with": "Materialize CSS, JavaScript, PHP, MySQL",
+            "types": "Web Application",
+            "date": "Nov 25, 2020",
+            "url": "",
+            "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/29ddb096eab5895679125b5d189a4bbc-1689585154386/3_img.png",
+            "preview_img": "https://muhammadabir64.github.io/assets/showcase/3_img_1.png|https://muhammadabir64.github.io/assets/showcase/3_img_2.png"
+        },
+        {
+            "title": "Noteneers",
+            "description": "Keep track of notes for engineers to increase accountability. Users can contribute notes like github repo.",
+            "made_with": "JavaScript, PHP, MySQL",
+            "types": "Web Application",
+            "date": "Jun 08, 2021",
+            "url": "",
+            "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/11df8ac8f0e66f8de8cabf805dba3bec-1689584886061/9_img.png",
+            "preview_img": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/11df8ac8f0e66f8de8cabf805dba3bec-1689584886080/9_img_2.png|https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/11df8ac8f0e66f8de8cabf805dba3bec-1689584886067/9_img_1.png"
+        },
+        {
+            "title": "Azott - Inventory Manager",
+            "description": "A inventory management tool for an ecommerce platform based in Algeria. It can add, remove, edit, export, import products & sellers.",
+            "made_with": "JavaScript, PHP, MySQL",
+            "types": "Web Application",
+            "date": "Apr 25, 2021",
+            "url": "",
+            "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/bf383948c2c5f0369a0e73e2f779e883-1689584754619/2_img.png",
+            "preview_img": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/bf383948c2c5f0369a0e73e2f779e883-1689584754600/2_img_2.png|https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/bf383948c2c5f0369a0e73e2f779e883-1689584754623/2_img_1.png"
+        },
+        {
+            "title": "B&B - Hotel Management",
+            "description": "A Flask-based Hotel Room Management Web App simplifies booking. Users can register/login, browse rooms, book stays, and securely pay with Stripe. It offers instant confirmations, user dashboards, and admin controls for a seamless booking experience.",
+            "made_with": "JavaScript, Python Flask, SQLite",
+            "types": "Web Application",
+            "date": "May 10, 2021",
+            "url": "https://github.com/muhammadabir64/bed-and-breakfast",
+            "thumbnail": "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/7b2f8c23-ae49-4c1d-8abe-50a92a5001e4",
+            "preview_img": "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/ea60887a-84c6-4625-97b2-4c4e2c974f5e|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/79574353-30a1-4767-ad85-903836a78493|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/56cac27d-d462-44b6-a8be-d3986810a057|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/48f5c8eb-cd8d-471d-a559-5a1b241a02fd|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/856017a9-67d2-44c8-ac9a-879e84f657b6|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/a888053c-7c88-40b4-8362-906c0b7579aa|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/e1f48d05-6757-4263-b383-a46b2eda1740"
+        },
+        {
+            "title": "EtherScan DB",
+            "description": "This simple tool takes an ethereum hash and fetches all transactions data.",
+            "made_with": "Bootstrap, NodeJS, MySQL",
+            "types": "Web Application",
+            "date": "Mar 08, 2023",
+            "url": "",
+            "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/a61fac1508120cfc7defecda90d0532e-1689586418122/Capture%20%283%29.png",
+            "preview_img": ""
+        },
+        {
+            "title": "STR4IN",
+            "description": "To-Do app made with MERN. fully interactive & items can be place one category to another with just drag-&-drop.",
+            "made_with": "MERN Stack",
+            "types": "Web Application",
+            "date": "Dec 30, 2022",
+            "url": "",
+            "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/7bc779e6d000a8619582f798f9417ba1-1689587594213/Capture%20%283%29.png",
+            "preview_img": ""
+        },
+        {
+            "title": "Shitlisting",
+            "description": "I have developed a comprehensive platform dedicated to listing cryptocurrencies. This innovative platform allows individuals to share and showcase their coin details, providing valuable information to potential buyers. Users have the ability to upload and showcase their coins, creating a marketplace where buyers can explore and make informed purchasing decisions. With a user-friendly interface and a focus on facilitating seamless transactions, the platform offers an efficient and reliable solution for crypto enthusiasts.",
+            "made_with": "Bootstrap, JavaScript, Binance API, PHP, MySQL",
+            "types": "Web Application",
+            "date": "Jul 10, 2021",
+            "url": "",
+            "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/ba3e97cc560fb584c78ada726296f64a-1689588026793/admin_panel.png",
+            "preview_img": ""
+        },
+        {
+            "title": "Wikipedia Traffic Data Analysis",
+            "description": "Global pandemic analysis graph built using react.",
+            "made_with": "React.js",
+            "types": "Website",
+            "date": "May 13, 2023",
+            "url": "",
+            "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/d7fdd3fc6cb98aac89db2b0c81ac8022-1689585564788/Capture.png",
+            "preview_img": ""
+        },
+        {
+            "title": "Quotes Generator 2x",
+            "description": "I have developed two web applications for a client, each equipped with an efficient admin panel. Within the admin panel, administrators have the capability to choose images based on specific niches. Leveraging the power of Pixabay and Unsplash APIs, the applications seamlessly retrieve relevant images. Furthermore, administrators can effortlessly input any desired quote text, prompting the applications to generate visually captivating quote images.",
+            "made_with": "Bootstrap, NodeJS, MySQL",
+            "types": "Web Application",
+            "date": "Mar 21, 2023",
+            "url": "https://github.com/muhammadabir64/quotescircle",
+            "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/71762dd5828f4ae886b1b582c41c6972-1689587381065/Capture%20%281%29.png",
+            "preview_img": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/71762dd5828f4ae886b1b582c41c6972-1689587381073/Capture.png|https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/71762dd5828f4ae886b1b582c41c6972-1689587401781/image%20%281%29.png|https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/71762dd5828f4ae886b1b582c41c6972-1689587407484/image.png"
+        },
+        {
+            "title": "ProPasswordGenerator",
+            "description": "Pro Password Generator is a Strong Password Generator that allows you to quickly generate a secure, strong and random password from a combination of characters, passpharase, letters, numbers, symbols and special characters.",
+            "made_with": "Bootstrap, JavaScript",
+            "types": "Website",
+            "date": "Feb 26, 2023",
+            "url": "https://www.propasswordgenerator.com",
+            "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/985d20a60977e916db3d8b38792ead7e-1689585435088/8_img.png",
+            "preview_img": ""
+        },
+        {
+            "title": "Website Audit Cheaker Tool",
+            "description": "This seo audit prioritizes each fix based on potential traffic impact and ease of implementation. Made with python & selenium.",
+            "made_with": "JavaScript, Python, Flask, Selenium",
+            "types": "Web Application",
+            "date": "Mar 19, 2023",
+            "url": "",
+            "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/7e410ea58863bda34cdbb0d82c7d747b-1689586258266/Capture%20%282%29.png",
+            "preview_img": ""
+        },
+        {
+            "title": "Employeer List",
+            "description": "Simple CRUD based app.",
+            "made_with": "Bootstrap, NodeJS, MySQL",
+            "types": "Web Application",
+            "date": "Feb 08, 2023",
+            "url": "",
+            "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/de30252b3746f3b3d9581276b612472e-1689587471006/Capture%20%282%29.png",
+            "preview_img": ""
+        },
+        {
+            "title": "ERC Funding Solutions",
+            "description": "ERC survey form submission application.",
+            "made_with": "Bootstrap, JQuery, PHP, MySQL",
+            "types": "Web Application",
+            "date": "May 25, 2023",
+            "url": "",
+            "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/8a1e9c6ee2e2a18737c320916b82871b-1689586160717/Capture%20%281%29.png",
+            "preview_img": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/8a1e9c6ee2e2a18737c320916b82871b-1689586160723/Capture2%20%282%29.png"
+        },
+        {
+            "title": "RajRamakrishnan Ventures",
+            "description": "I still remember the day! for the first time I got an order on fiverr. This project was an indian lead generation company's website.",
+            "made_with": "Bootstrap, JavaScript, PHP",
+            "types": "Website",
+            "date": "Feb 21, 2021",
+            "url": "",
+            "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/f58f660748c746e577bbbf44679f33b6-1689585486090/4_img.png",
+            "preview_img": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/f58f660748c746e577bbbf44679f33b6-1689585486080/4_img_1.png"
+        },
+        {
+            "title": "ConcreterePairSnyc",
+            "description": "I took a WordPress website provided by a client and transformed it into a unique digital experience. By rebuilding it using only HTML, CSS, and JavaScript, I crafted a tailor-made interface that breaks away from the ordinary templates. Discover this project in my portfolio, where I turned a standard WordPress site into an extraordinary display of Vanilla HTML, CSS, and JS craftsmanship.",
+            "made_with": "Bootstrap, JavaScript",
+            "types": "Website",
+            "date": "Apr 19, 2023",
+            "url": "",
+            "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/9f670642b1d59fe581f1fe6249cf9b5b-1689585333802/7_img.png",
+            "preview_img": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/9f670642b1d59fe581f1fe6249cf9b5b-1689585333785/7_img_2.png|https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/9f670642b1d59fe581f1fe6249cf9b5b-1689585333785/7_img_2.png|https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/9f670642b1d59fe581f1fe6249cf9b5b-1689585333785/7_img_1.png"
+        }
+    ],
+    "reviews": [
+        {
+            "avatar": "/fiverr_logo.png",
+            "name": "Sa23Sa",
+            "flag": "sa",
+            "country": "Saudi Arabia",
+            "star": 5,
+            "comment": "Probably the best choice I've got so far. very helpful and I recommend it to everyone."
+        },
+        {
+            "avatar": "/fiverr_logo.png",
+            "name": "Damian Bednarz",
+            "flag": "ir",
+            "country": "Ireland",
+            "star": 5,
+            "comment": "Very professional, very hard worker, he consider all requirements correctly, delivered the product at the time in high standard. Very recommended to everyone"
+        },
+        {
+            "avatar": "/fiverr_logo.png",
+            "name": "Doramrami",
+            "flag": "ps",
+            "country": "Israel (Palestinian Territory)",
+            "star": 5,
+            "comment": "A very king and professional programmer i recommend!"
+        },
+        {
+            "avatar": "/fiverr_logo.png",
+            "name": "Layadia Ahmed",
+            "flag": "dz",
+            "country": "Algeria",
+            "star": 5,
+            "comment": "kind and hard-working developer"
+        },
+        {
+            "avatar": "/fiverr_logo.png",
+            "name": "UpThereInAir",
+            "flag": "us",
+            "country": "United States",
+            "star": 5,
+            "comment": "Great Work thX for understanding my project needs."
+        },
+        {
+            "avatar": "/fiverr_logo.png",
+            "name": "InternetPillar",
+            "flag": "in",
+            "country": "India",
+            "star": 5,
+            "comment": "Really helpful. Helped with every aspect of the app design till deployment. Would recommend to anyone who wants good service at a good price."
+        },
+        {
+            "avatar": "/fiverr_logo.png",
+            "name": "mpoutney",
+            "flag": "gb",
+            "country": "United Kingdom",
+            "star": 5,
+            "comment": "Excellent Thank you"
+        },
+        {
+            "avatar": "/fiverr_logo.png",
+            "name": "AdaOversight",
+            "flag": "us",
+            "country": "United States",
+            "star": 5,
+            "comment": "Great communication and he went above what was required to make the experience faster for me."
+        },
+        {
+            "avatar": "/fiverr_logo.png",
+            "name": "Riotrider",
+            "flag": "vn",
+            "country": "Vietnam",
+            "star": 5,
+            "comment": "My first time using Fiver, he provides me with the best services and quick responses with helpful information. Highly recommend!!"
+        },
+        {
+            "avatar": "/fiverr_logo.png",
+            "name": "Jamie Wilson",
+            "flag": "us",
+            "country": "United States",
+            "star": 5,
+            "comment": "we worked good together to get the project done"
+        },
+        {
+            "avatar": "/fiverr_logo.png",
+            "name": "Varun Kulkarn",
+            "flag": "in",
+            "country": "India",
+            "star": 5,
+            "comment": "Goes out of the way, really cooperative. Also helped me after the order was approved when I was stuck at a place. Will look forward to work with him again."
+        },
+        {
+            "avatar": "/fiverr_logo.png",
+            "name": "mdsuzaulislam",
+            "flag": "bd",
+            "country": "Bangladesh",
+            "star": 5,
+            "comment": "super helpful and prompt. always replies fast, and is picking up the pieces from another developers work (nobody likes doing that) will continue to work with him."
+        },
+        {
+            "avatar": "/fiverr_logo.png",
+            "name": "loicberthod",
+            "flag": "ch",
+            "country": "Switzerland",
+            "star": 5,
+            "comment": "really good job and communication, see you soon"
+        },
+        {
+            "avatar": "/fiverr_logo.png",
+            "name": "Ishlaos",
+            "flag": "us",
+            "country": "United States",
+            "star": 5,
+            "comment": "Great service. Honest and hard worker. I will use again for sure"
+        },
+        {
+            "avatar": "/fiverr_logo.png",
+            "name": "raahulshresthaa",
+            "flag": "gb",
+            "country": "United Kingdom",
+            "star": 5,
+            "comment": "Extremely helpful, good communication skills."
+        },
+        {
+            "avatar": "/fiverr_logo.png",
+            "name": "vonwedel",
+            "flag": "de",
+            "country": "Germany",
+            "star": 5,
+            "comment": "Very quick response, easily picked up my ideas, fast delivery and clean result - working as expected and documented. Thumbs up!"
+        },
+        {
+            "avatar": "/fiverr_logo.png",
+            "name": "shresr",
+            "flag": "gb",
+            "country": "United Kingdom",
+            "star": 5,
+            "comment": "Worked with him for the second time was an absolute pleasure. Really good communication, ready to sort and fix issues any issues. Goes above and beyond!"
+        },
+        {
+            "avatar": "/fiverr_logo.png",
+            "name": "BreadButter",
+            "flag": "in",
+            "country": "India",
+            "star": 4,
+            "comment": "Service is Fine"
+        }
+    ],
+    "social_id": [
+        {"platform": "facebook", "url": "https://www.facebook.com/bari.pavel007/"},
+        {"platform": "twitter", "url": "https://twitter.com/tohidulbaripave"},
+        {"platform": "github", "url": "https://github.com/tohidulbari"},
+        {"platform": "dev", "url": "https://dev.to/tohidulbari"},
+        {"platform": "linkedin-in", "url": "https://www.linkedin.com/in/tohidul-bari-pavel/"}
+    ]
+}

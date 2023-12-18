@@ -1,0 +1,12 @@
+#client_flag{
+    display: inline-block;
+    width: 20px;
+    margin-top: -10px;
+}
+#client_country{
+    font-size: 12px;
+    vertical-align: super;
+}
+.text-orange{
+    color: #fa7508!important;
+}
